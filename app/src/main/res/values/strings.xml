@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Shopping App</string>
+=======
+    <string name="app_name">My Application</string>
+>>>>>>> 5fa2c9b2202b76ee476b86f1a4c35fef29244bcc
 </resources>

@@ -1,9 +1,17 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.ShoppingApp" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> 5fa2c9b2202b76ee476b86f1a4c35fef29244bcc
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+<<<<<<< HEAD
     <style name="Theme.ShoppingApp" parent="Base.Theme.ShoppingApp" />
+=======
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication" />
+>>>>>>> 5fa2c9b2202b76ee476b86f1a4c35fef29244bcc
 </resources>
